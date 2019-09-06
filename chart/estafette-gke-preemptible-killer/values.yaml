@@ -17,7 +17,7 @@ rbac:
 
 
 blacklistHours: "09:00 - 12:00, 13:00 - 18:00"
-whitelistHours: "09:00 - 12:00, 13:00 - 18:00"
+whitelistHours: "02:00 - 06:00"
 
 revisionHistoryLimit: 10
 
